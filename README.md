@@ -23,4 +23,4 @@ and enjoy rolling dice in your discord server =)
 
 or
 
-`!r 12d44` will roll 6 dice 44 => 12 to 528
+`!r 12d44` will roll 12 dice 44 => 12 to 528
